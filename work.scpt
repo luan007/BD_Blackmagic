@@ -1,0 +1,1 @@
+do shell script "bash /Users/doge/Desktop/Code/BD_Blackmagic/run.sh" with administrator privileges
